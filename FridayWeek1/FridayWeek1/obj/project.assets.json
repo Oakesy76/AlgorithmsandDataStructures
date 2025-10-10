@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aws.admin\\OneDrive - Leeds Trinity University\\Desktop\\c# alg+ds\\FridayWeek1\\FridayWeek1\\FridayWeek1.csproj",
+      "projectUniqueName": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\FridayWeek1\\FridayWeek1\\FridayWeek1.csproj",
       "projectName": "FridayWeek1",
-      "projectPath": "C:\\Users\\aws.admin\\OneDrive - Leeds Trinity University\\Desktop\\c# alg+ds\\FridayWeek1\\FridayWeek1\\FridayWeek1.csproj",
+      "projectPath": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\FridayWeek1\\FridayWeek1\\FridayWeek1.csproj",
       "packagesPath": "C:\\Users\\aws.admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aws.admin\\OneDrive - Leeds Trinity University\\Desktop\\c# alg+ds\\FridayWeek1\\FridayWeek1\\obj\\",
+      "outputPath": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\FridayWeek1\\FridayWeek1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
