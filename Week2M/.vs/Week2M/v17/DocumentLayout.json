@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\",
+  "WorkspaceRootPath": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|c:\\users\\fynn oakes\\source\\repos\\oakesy76\\algorithmsanddatastructures\\week2m\\week2m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|c:\\users\\aws.admin\\source\\repos\\oakesy76\\algorithmsanddatastructures\\week2m\\week2m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|solutionrelative:week2m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|c:\\users\\fynn oakes\\source\\repos\\oakesy76\\algorithmsanddatastructures\\week2m\\week2m\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|c:\\users\\aws.admin\\source\\repos\\oakesy76\\algorithmsanddatastructures\\week2m\\week2m\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|solutionrelative:week2m\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|c:\\users\\fynn oakes\\source\\repos\\oakesy76\\algorithmsanddatastructures\\week2m\\week2m\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|c:\\users\\aws.admin\\source\\repos\\oakesy76\\algorithmsanddatastructures\\week2m\\week2m\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8E06BED-0CF5-4116-BCCB-60B50C7E6EB6}|Week2M\\Week2M.csproj|solutionrelative:week2m\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,40 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Students.cs",
+              "DocumentMoniker": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Students.cs",
               "RelativeDocumentMoniker": "Week2M\\Students.cs",
-              "ToolTip": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Students.cs",
+              "ToolTip": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Students.cs",
               "RelativeToolTip": "Week2M\\Students.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:30:39.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T15:30:39.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Counter.cs",
-              "DocumentMoniker": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Counter.cs",
+              "DocumentMoniker": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Counter.cs",
               "RelativeDocumentMoniker": "Week2M\\Counter.cs",
-              "ToolTip": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Counter.cs",
+              "ToolTip": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Counter.cs",
               "RelativeToolTip": "Week2M\\Counter.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAA9wCQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:30:20.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T15:30:20.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Program.cs",
               "RelativeDocumentMoniker": "Week2M\\Program.cs",
-              "ToolTip": "C:\\Users\\Fynn Oakes\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Program.cs",
+              "ToolTip": "C:\\Users\\aws.admin\\source\\repos\\Oakesy76\\AlgorithmsandDataStructures\\Week2M\\Week2M\\Program.cs",
               "RelativeToolTip": "Week2M\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:26:55.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T15:26:55.423Z"
             }
           ]
         }
